@@ -62,3 +62,8 @@ Session.vim
 /Content/Maps/**
 /Content/__ExternalActors__/**
 /Content/__ExternalObjects__/**
+
+# Maps
+/Content/Characters/Mannequin**
+/Content/ThirdPerson/**
+/Content/LevelPrototyping/**
